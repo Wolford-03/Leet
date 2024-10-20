@@ -16,3 +16,10 @@ Just adding some problems that I solve
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Wolford-03/Leet/tree/master/0231-power-of-two) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [2350-find-closest-number-to-zero](https://github.com/Wolford-03/Leet/tree/master/2350-find-closest-number-to-zero) |
+<!---LeetCode Topics End-->
