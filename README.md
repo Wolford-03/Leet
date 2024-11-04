@@ -22,4 +22,12 @@ Just adding some problems that I solve
 |  |
 | ------- |
 | [2350-find-closest-number-to-zero](https://github.com/Wolford-03/Leet/tree/master/2350-find-closest-number-to-zero) |
+## Two Pointers
+|  |
+| ------- |
+| [1894-merge-strings-alternately](https://github.com/Wolford-03/Leet/tree/master/1894-merge-strings-alternately) |
+## String
+|  |
+| ------- |
+| [1894-merge-strings-alternately](https://github.com/Wolford-03/Leet/tree/master/1894-merge-strings-alternately) |
 <!---LeetCode Topics End-->
